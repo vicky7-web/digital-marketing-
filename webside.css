@@ -1,0 +1,231 @@
+body{
+
+  padding-top: 80px;
+
+
+}
+.jumbotron{
+  background-image: url(https://cdn.dribbble.com/users/2203197/screenshots/12004589/media/e9c7a5fe8577457bf1eb1259e218ff93.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.navbar{
+  background-color: #016DA6;
+
+
+
+}
+.navbar a{
+  color: white;
+  font-weight: bolder;
+}
+#s{
+  font-size: 70px;
+  font-weight:bolder;
+  font-family: Papyrus;
+  color: white;
+  text-align: center;
+  margin:  90px 90px;
+}
+#a{
+  font-size: 30px;
+  font-weight:bold;
+  font-family: Papyrus;
+  color: white;
+  text-align: center;
+  margin: 60px 100px;
+}
+.container{
+  text-align: center;
+}
+.btn-97,
+.btn-97 *,
+.btn-97 :after,
+.btn-97 :before,
+.btn-97:after,
+.btn-97:before {
+  border: 0 solid;
+  box-sizing: border-box;
+}
+.btn-97 {
+  -webkit-tap-highlight-color:
+transparent;
+  -webkit-appearance: button;
+  background-color:
+#000;
+  background-image: none;
+  color:
+#fff;
+  cursor: pointer;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  font-size: 100%;
+  line-height: 1.5;
+  margin: 0;
+  -webkit-mask-image: -webkit-radial-gradient(#000, #fff);
+  padding: 0;
+}
+.btn-97:disabled {
+  cursor: default;
+}
+.btn-97:-moz-focusring {
+  outline: auto;
+}
+.btn-97 svg {
+  display: block;
+  vertical-align: middle;
+}
+.btn-97 [hidden] {
+  display: none;
+}
+.btn-97 {
+  background:
+#fff;
+  border: 1px solid;
+  border-radius: 999px;
+  box-sizing: border-box;
+  color:
+#000;
+  display: block;
+  font-weight: 900;
+
+  -webkit-mask-image: none;
+  overflow: hidden;
+  padding: 1.2rem 3rem;
+  position: relative;
+  text-transform: uppercase;
+  transition: 0.2s;
+}
+.btn-97:hover {
+  box-shadow: 0 6px 0 -4px
+#fff, 0 9px 0 -4px
+#aaa, 0 12px 0 -4px
+#000;
+  transform: translateY(-5px);
+}
+.et_pb_module_header{
+  padding-top: 40px;
+  font-weight: bolder;
+  font-size: 50px;
+  padding-left: 10px;
+  text-align: center;
+}
+p{
+  font-size: 15px;
+  font-weight: bolder;
+
+
+
+}
+.jumbotron-1{
+padding-left: 20px;
+  border-color: black bolder;
+font-weight: bolder;
+  padding-bottom: 20px;
+background-image: url(https://i.pinimg.com/originals/33/63/7b/33637bb61e587e1bcf3b005c9b50ba69.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position:center;
+  }
+  span{
+    font-family: Fantasy;
+  }
+
+
+  }
+  h2{
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+  }
+
+  .contact form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    padding-top: 20px;
+    background-color: #90A4AE;
+    color: black;
+  }
+  }
+  hr{
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+  }
+
+
+h3{
+  text-align: center;
+  color: black;
+  font-weight: bolder;
+
+  }
+  .contact input, .contact textarea {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #CCCCCC;
+  }
+  .company-overview {
+    padding: 50px;
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.GLfL56bOjMvCBDI7jxspAwHaDa&pid=Api&P=0&h=180);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    color: white;
+  }
+
+
+  .company-overview h2 {
+    margin-top: 0;
+  }
+
+  .team {
+    padding: 50px;
+    background-color: #FFFFFF;
+  }
+
+  .team ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .team li {
+    margin: 0px;
+    width: 250px;
+    background-color: #F7F7F7;
+    padding: 20px;
+    border: 1px solid #CCCCCC;
+    border-radius: 10px;
+  }
+
+  .team img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+  }
+
+  .team h3 {
+    margin-top: 0;
+  }
+
+  .team p {
+    margin-bottom: 0px;
+  }
+  .ab{
+
+    background-color: #424242;
+    color: white;
+    font-family: Monospace;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+  }
